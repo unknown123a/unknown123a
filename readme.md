@@ -1,82 +1,132 @@
-<h1 align="center">🚀 Mithun V</h1>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mithun V</h1>
+<h3 align="center">🚀 Full-Stack Blockchain Developer | 🔐 Cybersecurity Contributor @ Google | 🛡️ Secure Code Advocate</h3>
+
 <p align="center">
-  <b>Full-Stack Developer | Blockchain Enthusiast | Cybersecurity Contributor @ Google</b><br/>
-  <a href="mailto:mithunv240@gmail.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/mithun-v-415348319">🔗 LinkedIn</a> • 
-  <a href="https://github.com/MithunV">💻 GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Secure.+Scale.+Deploy.;Blockchain+Dev+%7C+Web+%7C+Security.;Building+Systems+with+Purpose."/>
 </p>
 
 ---
 
+## 🧑‍💻 About Me
+
+- 👨‍💻 Full-Stack & Web3 Developer passionate about decentralized tech  
+- 🔐 Contributor to Google’s **Cybersecurity Projects**  
+- ⚙️ Advocate of security-first software engineering  
+- 💡 Experienced in building smart contracts, secure APIs, and scalable cloud-based solutions  
+- 📚 Always exploring AI-enhanced security, Web3 governance, and ethical hacking
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+  <b>Frontend</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</td>
+<td align="center" width="140">
+  <b>Backend</b><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</td>
+<td align="center" width="140">
+  <b>Blockchain</b><br><br>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+</td>
+<td align="center" width="140">
+  <b>Databases</b><br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</td>
+<td align="center" width="140">
+  <b>DevOps/Tools</b><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="5">
+  <b>Cybersecurity & Practices</b><br><br>
+  <img src="https://img.shields.io/badge/OWASP-Top_10-critical?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Coding-Practices-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-Important-darkgreen?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📚 Highlight Projects
+
+### 🔐 Smart Contract Security Framework  
+A robust suite of test tools and custom auditing modules built in **Solidity** and **Web3.js**. Designed to scan Ethereum contracts for re-entrancy, overflow, and business logic vulnerabilities.
+
+🔗 [Explore the Code](https://github.com/MithunV/smart-contract-security-suite)
+
+---
+
+### 🌐 Decentralized Voting DApp  
+Full-stack blockchain-based voting platform ensuring trust and transparency using **Ethereum**, **Solidity**, **React**, and **MetaMask** integration.
+
+🔗 [Explore the Code](https://github.com/MithunV/decentralized-voting-app)
+
+---
+
+### 🛡️ Threat Modeling Visualizer  
+Web-based system to generate and visualize STRIDE threat models using Django + D3.js for software projects, aiding secure SDLC planning.
+
+🔗 [Explore the Code](https://github.com/MithunV/threat-model-visualizer)
+
+---
+
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=09F7FF&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Building+Secure+Web+and+Blockchain+Apps;Cybersecurity+Contributor+at+Google;Full-Stack+Dev+%7C+Web3+Engineer+%7C+DevSecOps+Explorer" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MithunV&theme=dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MithunV&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunV&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Mithun V**, a passionate developer working at the intersection of **Web Development**, **Blockchain**, and **Cybersecurity**. Whether it's building smart contracts or securing cloud infrastructure, I strive for clean, secure, and scalable solutions.
-
-- 🔐 Contributor to **Google’s Cybersecurity Projects**
-- 💻 Full-Stack & Web3 Developer
-- 🧠 Lifelong learner and Open-Source enthusiast
-
----
-
-## 🧰 Tech Toolbox
-
-| Domain | Technologies |
-|--------|--------------|
-| 🌐 Frontend | HTML, CSS, JavaScript, React.js, Tailwind CSS |
-| 🛠️ Backend | Node.js, Express.js, Django, REST APIs |
-| 🗃️ Databases | MongoDB, MySQL, PostgreSQL |
-| ⛓ Blockchain | Solidity, Ethereum, Web3.js, Smart Contracts |
-| 🔒 Cybersecurity | OWASP Top 10, Secure Coding, Threat Modeling |
-| ⚙️ DevOps & Tools | Git, GitHub Actions, Docker, Postman |
-
----
-
-## 🏆 GitHub Trophies
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MithunV&theme=algolia&row=1&no-frame=true&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MithunV&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Activity Stats
+## 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithunV&show_icons=true&theme=radical&hide=prs&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MithunV&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunV&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MithunV&theme=tokyo-night" />
+<p align="left">
+  <a href="mailto:mithunv240@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mithun-v-415348319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MithunV" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📬 Contact Me
+## 💬 Quote to Remember
 
-- 📧 **Email**: mithunv240@gmail.com  
-- 📮 **Alternate Email**: programiminds@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/mithun-v-415348319](https://linkedin.com/in/mithun-v-415348319)  
-- 💻 **GitHub**: [github.com/MithunV](https://github.com/MithunV)
+> 🧠 **"Secure code is quality code — not just an afterthought, but a foundation."**  
+> — Mithun V
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MithunV&style=for-the-badge&color=blue" alt="MithunV" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
-<p align="center"><i>“Secure code is quality code.”</i></p>
