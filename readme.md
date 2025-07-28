@@ -1,28 +1,32 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mithun V</h1>
-<h3 align="center">🚀 Full-Stack Blockchain Developer | 🔐 Cybersecurity Contributor @ Google | 🛡 Secure Code Advocate</h3>
+<h3 align="center">🚀 Full-Stack Developer | 💻 Web & Java Enthusiast | 🔐 Cybersecurity Contributor @ Google</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=Secure.+Scale.+Deploy.;Engineer+for+Tomorrow's+Web.;Smart+Contracts+%7C+Cloud+Security+%7C+Web+Dev."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&lines=Code+with+Purpose.;Secure.+Scale.+Deploy.;Clean+Java+%7C+Modern+React+%7C+Smart+Solutions."/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎯 I'm **Mithun V**, a passionate technologist blending **Web3 development** and **cybersecurity expertise** to craft robust, secure, and user-centric digital systems.
+I’m **Mithun V**, a passionate developer merging **full-stack engineering** with **cybersecurity practices** to craft secure, scalable systems.
 
-- 🔐 Contributing to cybersecurity initiatives @ **Google**
-- 💻 Building full-stack & decentralized apps using **Solidity**, **React**, **Node.js**, and **Django**
-- 🧠 Advocating for **secure coding**, **OWASP Top 10 compliance**, and **clean architecture**
-- 🚀 Focused on scalable, secure, and meaningful code
+- 👨‍💻 Currently contributing to security at **Google**
+- 💡 Focused on full-stack apps with **Spring Boot**, **React**, and **Python**
+- 🔒 Proactive in implementing **OWASP Top 10** and **Threat Modeling**
+- 🛠 Love working with clean code, reusable components, and REST APIs
 
 ---
 
-## 🧰 Tech Stack
+## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,django,python,mongodb,mysql,postgres,solidity,web3js,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,tailwind,spring" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,mongodb,postman,docker,vscode" />
 </p>
 
 <p align="center">
@@ -33,24 +37,24 @@
 
 ---
 
-## 🌟 Featured Projects
+## 📚 Featured Projects
 
-### 🛡️ Smart Contract Security Suite
-A vulnerability-scanning toolkit for Solidity-based contracts with automated audit checks, gas usage insights, and dynamic simulation.
+### 🛡️ Smart Contract Security Suite  
+Toolset to test and audit Solidity contracts for critical vulnerabilities and gas inefficiencies.
 
 🔗 [View Repo](https://github.com/MithunV/smart-contract-security-suite)
 
 ---
 
-### 🗳️ Decentralized Voting App
-A secure Ethereum-powered voting DApp using MetaMask, React, Web3.js, and smart contracts — built with tamper-proof design.
+### 🌐 Decentralized Voting DApp  
+Voting platform on Ethereum using Web3, React, MetaMask, and smart contracts. Designed for tamper-proof democracy.
 
 🔗 [View Repo](https://github.com/MithunV/decentralized-voting-app)
 
 ---
 
-### 📉 Threat Modeling Visualizer
-STRIDE-based threat modeling app that visually maps vulnerabilities across a project’s architecture using Django + D3.js.
+### 📊 Threat Modeling Visualizer  
+Web app using Django & D3.js to generate STRIDE threat models, aiding security-first system planning.
 
 🔗 [View Repo](https://github.com/MithunV/threat-model-visualizer)
 
@@ -72,20 +76,12 @@ STRIDE-based threat modeling app that visually maps vulnerabilities across a pro
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MithunV&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-graph.vercel.app/MithunV" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MithunV&theme=onedark&row=1&margin-w=15&no-frame=true" />
-</p>
-
----
-
-## 🔗 Let's Connect
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="mailto:mithunv240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -95,10 +91,10 @@ STRIDE-based threat modeling app that visually maps vulnerabilities across a pro
 
 ---
 
-## 💡 Quote I Live By
+## 💬 Quote to Live By
 
 <p align="center">
-  <i>“Secure code isn’t optional — it’s the baseline for quality.”</i><br/>
+  <i>"Secure code isn’t a layer — it's the foundation of real software engineering."</i><br/>
   — Mithun V
 </p>
 
