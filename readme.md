@@ -1,86 +1,82 @@
-
-<!-- Profile Banner -->
-<h1 align="center">Hi there 👋, I'm Mithun V</h1>
-<h3 align="center">Full-Stack Python Developer | AI/ML Enthusiast | Building Clean, Impactful Solutions</h3>
-
+<h1 align="center">🚀 Mithun V</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7FE&center=true&vCenter=true&width=500&lines=Final+Year+CS+Student+%F0%9F%92%BB;Django+%7C+FastAPI+%7C+React+%7C+MongoDB+%F0%9F%93%9A;Exploring+AI+%7C+Automation+%7C+Web+Performance+%F0%9F%A4%AB;Let%27s+Build+Something+Awesome+Together!+%F0%9F%9A%80"/>
+  <b>Full-Stack Developer | Blockchain Enthusiast | Cybersecurity Contributor @ Google</b><br/>
+  <a href="mailto:mithunv240@gmail.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/mithun-v-415348319">🔗 LinkedIn</a> • 
+  <a href="https://github.com/MithunV">💻 GitHub</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 Final-year Computer Science student with a passion for web development
-- 🔧 Skilled in **Django**, **FastAPI**, and **React**, with hands-on project experience
-- 🌐 Exploring **AI**, **ML**, and **Web Automation**
-- 🚀 Committed to writing clean, scalable, and maintainable code
-- 🎯 Always learning, always building
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-| Languages | Backend | Frontend | Databases | Tools |
-|----------|---------|----------|-----------|-------|
-| ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) | ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 📊 SEO Pulse: A Lightweight SEO Analyzer  
-A Django-based SEO auditing tool for local business websites.  
-Includes custom crawler, scoring, and optimization suggestions.  
-**Tech Used:** Django, BeautifulSoup, Google PageSpeed API  
-🔗 [Coming Soon]
-
----
-
-### 🧠 QGAN Image Generator  
-Explores quantum GANs to synthesize images when training data is insufficient.  
-**Tech Used:** Qiskit, PyTorch, NumPy  
-🔗 [Coming Soon]
-
----
-
-### 💬 PeerChat - Real-Time Chat App  
-A browser-based WebRTC-powered chat system using Agora SDK.  
-Includes features like real-time video/audio, chatroom sharing, mute/camera toggle.  
-**Tech Used:** Django, JavaScript, Agora SDK  
-🔗 [Coming Soon]
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithunv&show_icons=true&theme=react&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithunv&layout=compact&theme=react&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=09F7FF&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Building+Secure+Web+and+Blockchain+Apps;Cybersecurity+Contributor+at+Google;Full-Stack+Dev+%7C+Web3+Engineer+%7C+DevSecOps+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 👨‍💻 About Me
+
+I'm **Mithun V**, a passionate developer working at the intersection of **Web Development**, **Blockchain**, and **Cybersecurity**. Whether it's building smart contracts or securing cloud infrastructure, I strive for clean, secure, and scalable solutions.
+
+- 🔐 Contributor to **Google’s Cybersecurity Projects**
+- 💻 Full-Stack & Web3 Developer
+- 🧠 Lifelong learner and Open-Source enthusiast
+
+---
+
+## 🧰 Tech Toolbox
+
+| Domain | Technologies |
+|--------|--------------|
+| 🌐 Frontend | HTML, CSS, JavaScript, React.js, Tailwind CSS |
+| 🛠️ Backend | Node.js, Express.js, Django, REST APIs |
+| 🗃️ Databases | MongoDB, MySQL, PostgreSQL |
+| ⛓ Blockchain | Solidity, Ethereum, Web3.js, Smart Contracts |
+| 🔒 Cybersecurity | OWASP Top 10, Secure Coding, Threat Modeling |
+| ⚙️ DevOps & Tools | Git, GitHub Actions, Docker, Postman |
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="mailto:programiminds@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MithunV&theme=algolia&row=1&no-frame=true&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" />
 </p>
 
 ---
 
-## 💡 Quote I Live By
+## 📊 GitHub Activity Stats
 
-> *"Simplicity is the soul of efficiency."* — Austin Freeman
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MithunV&show_icons=true&theme=radical&hide=prs&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MithunV&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunV&layout=compact&theme=radical" width="48%"/>
+</p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MithunV&theme=tokyo-night" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email**: mithunv240@gmail.com  
+- 📮 **Alternate Email**: programiminds@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/mithun-v-415348319](https://linkedin.com/in/mithun-v-415348319)  
+- 💻 **GitHub**: [github.com/MithunV](https://github.com/MithunV)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MithunV&style=for-the-badge&color=blue" alt="MithunV" />
+</p>
+
+<p align="center"><i>“Secure code is quality code.”</i></p>
